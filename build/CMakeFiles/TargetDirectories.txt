@@ -1,0 +1,3 @@
+/home/slopes/nixos/pagination/build/CMakeFiles/pagination.dir
+/home/slopes/nixos/pagination/build/CMakeFiles/edit_cache.dir
+/home/slopes/nixos/pagination/build/CMakeFiles/rebuild_cache.dir
